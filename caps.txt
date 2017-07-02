@@ -1,10 +1,10 @@
 ﻿{
   "data": [
     [
-      "image" : "img",
-      "beername" : "BeerName",
-      "country" : "Country,
-      "colors" : "colors"
+      "image",
+      "beername",
+      "country",
+      "colors",
     ]
   ]
 }
