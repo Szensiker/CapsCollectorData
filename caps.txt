@@ -5,6 +5,12 @@
       "beer_name": "Old Bobby",
       "country": "Russia",
       "colours": "Gold, White, Black"
+    },
+    {
+      "image": "https://scontent.cdninstagram.com/t51.2885-15/e15/10914524_598367376976810_1703379894_n.jpg",
+      "beer_name": "Czarny kot",
+      "country": "Poland",
+      "colours": "White, Black"
     }
   ]
 }
