@@ -11,6 +11,6 @@
       "BeerName",
       "Country",
       "Colors"
-    ],
+    ]
   ]
 }
